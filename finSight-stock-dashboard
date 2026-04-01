@@ -1,0 +1,8 @@
+finSight-stock-dashboard/
+│
+├── src/
+├── data/
+├── outputs/
+├── main.py
+├── requirements.txt
+└── README.md
